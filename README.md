@@ -1,9 +1,8 @@
 Installation
 ===
-
 * Git clone the repository
 * Set up a virtual environment and install the dependencies from requirements.txt
-* Run the flask server `python app.py`
+* Run the flask server with a Python 2.X interpreter `python app.py`
 * Open http://localhost:5000
 
 Website
